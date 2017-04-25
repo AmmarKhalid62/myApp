@@ -32,6 +32,7 @@ var btnClickCount = 0;
 
 // Gets/sets press event callback for btn
 function btn_onPress() {
+    alert('welcome to the new app');
     var myLabelText = "";
     var myButtonText = "";
 
